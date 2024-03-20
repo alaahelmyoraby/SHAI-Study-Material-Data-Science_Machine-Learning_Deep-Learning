@@ -1,0 +1,15 @@
+echo "# SHAI_internship-Data-Science_ML_DL" >> README.md
+git init
+git add .
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/alaahelmyoraby/SHAI_internship-Data-Science_ML_DL.git
+git push -u origin main
+
+cd "D:\Data Science From Scratch\SHAI"
+git add .
+git commit -m "first commit"
+-------------------
+git push origin main
+----------------------
+git pull origin main
